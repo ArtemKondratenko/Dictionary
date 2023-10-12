@@ -2,7 +2,7 @@
 name = "dictionary"
 version = "0.1.0"
 description = ""
-authors = ["Артем Кондратенко <artem-osteo@yandex.ru>"]
+authors = ["Artem Kondratenko <artem-osteo@yandex.ru>"]
 license = "MIT"
 readme = "README.md"
 
